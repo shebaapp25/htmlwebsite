@@ -1,0 +1,28 @@
+h1{
+  text-align: center;
+}
+
+h5{
+  text-align: center;
+}
+
+p{
+  text-align: center;
+}
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  float: right;
+}
+li a{
+  color: white;
+  background-color: black;
+  text-decoration: none;
+}
+li a:hover{
+  background-color: green;
+}
+.about p{
+  text-align: justify;
+}
